@@ -69,6 +69,5 @@ namespace ArduinoTest
                 comboBox1.Items.Add(item);
             }
         }
-
     }
 }

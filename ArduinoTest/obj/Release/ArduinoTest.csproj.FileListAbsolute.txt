@@ -1,0 +1,17 @@
+C:\Users\제5강의실-3\Desktop\일일수업내용\C#\ArduinoTest\ArduinoTest\obj\Release\ArduinoTest.csproj.AssemblyReference.cache
+C:\Users\제5강의실-3\Desktop\일일수업내용\C#\ArduinoTest\ArduinoTest\obj\Release\ArduinoTest.Form1.resources
+C:\Users\제5강의실-3\Desktop\일일수업내용\C#\ArduinoTest\ArduinoTest\obj\Release\ArduinoTest.Properties.Resources.resources
+C:\Users\제5강의실-3\Desktop\일일수업내용\C#\ArduinoTest\ArduinoTest\obj\Release\ArduinoTest.Form1.lg.resources
+C:\Users\제5강의실-3\Desktop\일일수업내용\C#\ArduinoTest\ArduinoTest\obj\Release\ArduinoTest.csproj.GenerateResource.cache
+C:\Users\제5강의실-3\Desktop\일일수업내용\C#\ArduinoTest\ArduinoTest\obj\Release\ArduinoTest.csproj.CoreCompileInputs.cache
+C:\Users\제5강의실-3\Desktop\일일수업내용\C#\ArduinoTest\ArduinoTest\obj\Release\lg\ArduinoTest.resources.dll
+C:\Users\제5강의실-3\Desktop\ArduinoTest.exe.config
+C:\Users\제5강의실-3\Desktop\일일수업내용\C#\ArduinoTest\ArduinoTest\obj\Release\ArduinoTest.exe
+C:\Users\제5강의실-3\Desktop\일일수업내용\C#\ArduinoTest\ArduinoTest\obj\Release\ArduinoTest.pdb
+C:\Users\제5강의실-3\Desktop\ArduinoTest.exe
+C:\Users\제5강의실-3\Desktop\ArduinoTest.pdb
+C:\Users\제5강의실-3\Desktop\lg\ArduinoTest.resources.dll
+C:\Users\제5강의실-3\Desktop\일일수업내용\C#\ArduinoTest\ArduinoTest\bin\Release\ArduinoTest.exe.config
+C:\Users\제5강의실-3\Desktop\일일수업내용\C#\ArduinoTest\ArduinoTest\bin\Release\ArduinoTest.exe
+C:\Users\제5강의실-3\Desktop\일일수업내용\C#\ArduinoTest\ArduinoTest\bin\Release\ArduinoTest.pdb
+C:\Users\제5강의실-3\Desktop\일일수업내용\C#\ArduinoTest\ArduinoTest\bin\Release\lg\ArduinoTest.resources.dll

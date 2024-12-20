@@ -8,3 +8,6 @@ C:\Users\제5강의실-3\Desktop\일일수업내용\C#\ArduinoTest\ArduinoTest\o
 C:\Users\제5강의실-3\Desktop\일일수업내용\C#\ArduinoTest\ArduinoTest\obj\Debug\ArduinoTest.csproj.CoreCompileInputs.cache
 C:\Users\제5강의실-3\Desktop\일일수업내용\C#\ArduinoTest\ArduinoTest\obj\Debug\ArduinoTest.exe
 C:\Users\제5강의실-3\Desktop\일일수업내용\C#\ArduinoTest\ArduinoTest\obj\Debug\ArduinoTest.pdb
+C:\Users\제5강의실-3\Desktop\일일수업내용\C#\ArduinoTest\ArduinoTest\bin\Debug\lg\ArduinoTest.resources.dll
+C:\Users\제5강의실-3\Desktop\일일수업내용\C#\ArduinoTest\ArduinoTest\obj\Debug\ArduinoTest.Form1.lg.resources
+C:\Users\제5강의실-3\Desktop\일일수업내용\C#\ArduinoTest\ArduinoTest\obj\Debug\lg\ArduinoTest.resources.dll
